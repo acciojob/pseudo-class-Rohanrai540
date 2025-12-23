@@ -6,13 +6,13 @@ margin:20px;
 content:"Before Container";
 color:#f00;
 font-size:20px;
-display:block;
+display:inline-block;
 }
 
 #container::after{
 content:"After Container";
 color:#f00;
 font-size:20px;
-display:block;
+display:inline-block;
 }
 
